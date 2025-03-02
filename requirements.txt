@@ -1,0 +1,13 @@
+langchain_google_genai
+langchain_community
+easyocr
+streamlit
+opencv-python
+PyPDF2
+numpy
+python-dotenv
+scikit-learn
+
+
+
+
